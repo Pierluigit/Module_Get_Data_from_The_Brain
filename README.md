@@ -1,2 +1,2 @@
 # Module_getTheBrain
- Get Data from THe Brain
+ Get Data from The Brain
