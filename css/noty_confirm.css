@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* CSS Document */
+.jconfirm.jconfirm-my_theme_noty .jconfirm-bg{
+	background-color: rgba(0, 0, 0, 0.9);
+}
+.jconfirm.jconfirm-my_theme_noty .jconfirm-box{
+	text-align: center;
+	color: #fff;
+	background-color: black;
+}
+.jconfirm.jconfirm-my_theme_noty .jconfirm-box.loading{
+}
+.jconfirm.jconfirm-my_theme_noty .jconfirm-box.loading:before{
+}
+.jconfirm.jconfirm-my_theme_noty .jconfirm-box.loading:after{
+}
+.jconfirm.jconfirm-my_theme_noty .jconfirm-box .jconfirm-closeIcon{
+}
+.jconfirm.jconfirm-my_theme_noty .jconfirm-box .jconfirm-title-c{
+	
+}
+.jconfirm.jconfirm-my_theme_noty .jconfirm-box .jconfirm-title{
+	margin-left: 8px;
+}
+.jconfirm.jconfirm-my_theme_noty .jconfirm-box .jconfirm-content-pane{
+}
+.jconfirm.jconfirm-my_theme_noty .jconfirm-box .jconfirm-content{
+}
+.jconfirm.jconfirm-my_theme_noty .jconfirm-box .jconfirm-buttons{	
+}
+.jconfirm.jconfirm-my_theme_noty .jconfirm-box .jconfirm-buttons button{
+	/*color: #e88d3c;*/
+}
